@@ -22,20 +22,26 @@
 
 ### `> whoami`
 
-🧑‍💻 Jisnu S — CS undergrad at BIT, Tamil Nadu
+<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-I build AI systems that actually work in the real world - not just in notebooks.
+🧑‍💻 **Jisnu S** — CS undergrad at BIT, Tamil Nadu
 
-From optimizing alloy compositions in live furnaces to
-semantic search across 8 languages, I turn complex ML
+I build AI systems that actually work in the real world — not just in notebooks.
+
+From optimizing alloy compositions in live furnaces to<br/>
+semantic search across 8 languages, I turn complex ML<br/>
 models into fast, production-ready backends.
 
-🏆 ABB EngineeredX Hackathon - Second Runner Up (Top teams across South India)
-🏆 Google Developer Groups T4G - "Agents of Change" Award
-🏆 Sakthi Hackathon - Top 4 out of 600+ teams
+<br/>
 
-💡 Strong in Java OOP • Python • FastAPI • ML Engineering
-🎓 Mentored 100+ engineering students in ML and Generative AI
+🏆 **ABB EngineeredX Hackathon** — Second Runner Up *(Top teams across South India)*<br/>
+🏆 **Google Developer Groups T4G** — *"Agents of Change" Award*<br/>
+🏆 **Sakthi Hackathon** — Top 4 out of 600+ teams
+
+<br/>
+
+💡 Strong in **Java OOP** &bull; **Python** &bull; **FastAPI** &bull; **ML Engineering**<br/>
+🎓 Mentored **100+ engineering students** in ML and Generative AI
 
 ---
 
