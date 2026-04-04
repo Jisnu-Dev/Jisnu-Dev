@@ -1,14 +1,22 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Jisnu%20Saravanan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Systems&descSize=16&descAlignY=55)
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Building+AI+systems+that+ship.;From+months+to+minutes.;Backend+%2B+ML+%2B+Production.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=JISNU%20SARAVANAN&fontColor=58a6ff&fontSize=44&fontAlignY=50&animation=fadeIn" alt="header"/>
 
 <p>
+<code>AI Systems</code>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<code>Backend Architecture</code>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<code>ML Pipelines</code>
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=%E2%96%B8+Building+AI+systems+that+ship;%E2%96%B8+From+months+to+minutes;%E2%96%B8+Backend+%2B+ML+%2B+Production" alt="Typing SVG"/></a>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/JisnuSaravanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:imjisnu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://www.youtube.com/@JisnuSaravanan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Jisnu-Dev&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
 
