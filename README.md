@@ -137,17 +137,9 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jisnu-Dev&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=4" width="100%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jisnu-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jisnu-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jisnu-Dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Jisnu-Dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 
@@ -155,7 +147,7 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisnu-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisnu-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
@@ -164,18 +156,6 @@ I turn complex ML models into **fast, production-ready backends.**
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jisnu-Dev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jisnu-Dev/Jisnu-Dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jisnu-Dev/Jisnu-Dev/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jisnu-Dev/Jisnu-Dev/output/github-snake.svg" width="100%"/>
-</picture>
 
 </div>
 
