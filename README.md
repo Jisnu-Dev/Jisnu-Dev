@@ -26,8 +26,6 @@
 
 <div align="center">
 
-<br/>
-
 ## **`🧑‍💻 JISNU S`** &nbsp;·&nbsp; *CS Undergrad · BIT, Tamil Nadu*
 
 <br/>
