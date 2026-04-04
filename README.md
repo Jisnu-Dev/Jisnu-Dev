@@ -22,43 +22,39 @@
 
 ### `> whoami`
 
-<table>
-<tr>
-<td valign="top" width="68%">
+<div align="center">
 
-```yaml
-name    : Jisnu S
-role    : CS Undergrad @ BIT, Tamil Nadu
-focus   : AI Systems → Production Backends
-status  : Building...
-```
+<br/>
 
-I build AI systems that **actually work** in the real world — not just in notebooks.
+**`🧑‍💻 JISNU S`** &nbsp;·&nbsp; *CS Undergrad · BIT, Tamil Nadu*
 
-From optimizing alloy compositions in live furnaces to<br/>
-semantic search across 8 languages, I turn complex ML<br/>
-models into **fast, production-ready backends.**
+<br/>
 
-</td>
-<td valign="top" width="32%">
+> *I build AI systems that **actually work** in the real world —*<br/>
+> *not just in notebooks.*
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+<br/>
 
-</td>
-</tr>
-</table>
+From optimizing alloy compositions in **live furnaces** to semantic search across **8 languages**,<br/>
+I turn complex ML models into **fast, production-ready backends.**
 
-**`[ Wins ]`**
+<br/>
 
-🏆 **ABB EngineeredX Hackathon** — Second Runner Up *(Top teams across South India)*<br/>
-🏆 **Google Developer Groups T4G** — *"Agents of Change"* Award<br/>
-🏆 **Sakthi Hackathon** — Top 4 out of 600+ teams
+<img src="https://img.shields.io/badge/🏆%20ABB%20EngineeredX%20Hackathon-2nd%20Runner%20Up%20%7C%20Top%20Teams%20South%20India-DAA520?style=for-the-badge&labelColor=0d1117" alt="ABB"/><br/>
+<img src="https://img.shields.io/badge/🏆%20Google%20Developer%20Groups%20T4G-Agents%20of%20Change%20Award-DAA520?style=for-the-badge&labelColor=0d1117" alt="GDG"/><br/>
+<img src="https://img.shields.io/badge/🏆%20Sakthi%20Hackathon-Top%204%20%2F%20600%2B%20Teams-DAA520?style=for-the-badge&labelColor=0d1117" alt="Sakthi"/>
 
-**`[ Stack ]`**&nbsp;&nbsp;
-<kbd>Java OOP</kbd>&nbsp;<kbd>Python</kbd>&nbsp;<kbd>FastAPI</kbd>&nbsp;<kbd>ML Engineering</kbd>
+<br/><br/>
 
-**`[ Teaching ]`**&nbsp;&nbsp;
+<kbd>Java OOP</kbd>&nbsp;&nbsp;<kbd>Python</kbd>&nbsp;&nbsp;<kbd>FastAPI</kbd>&nbsp;&nbsp;<kbd>ML Engineering</kbd>
+
+<br/>
+
 🎓 Mentored **100+** engineering students in ML and Generative AI
+
+<br/>
+
+</div>
 
 ---
 
