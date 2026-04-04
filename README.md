@@ -60,8 +60,6 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
-<br/>
-
 ### ⬡ &nbsp;AlloyMind &nbsp;·&nbsp; *AI-Powered Alloy Optimization*
 
 > Real-time AI using live spectrometer data to recommend precise alloy additions with **<3% deviation** from target specs.
