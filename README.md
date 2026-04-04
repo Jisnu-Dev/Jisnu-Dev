@@ -20,7 +20,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20about%20me&fontSize=17&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=_&descSize=1" width="100%"/>
+### 🧑‍💻 &nbsp;About Me
+
+<img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
 <div align="center">
 
@@ -58,7 +60,9 @@ I turn complex ML models into **fast, production-ready backends.**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20projects&fontSize=17&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=_&descSize=1" width="100%"/>
+### 🛠️ &nbsp;Projects
+
+<img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
 <table>
 <tr>
@@ -112,7 +116,9 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20tech%20stack&fontSize=17&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=_&descSize=1" width="100%"/>
+### ⚙️ &nbsp;Tech Stack
+
+<img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
 **`languages:`**
 
@@ -149,7 +155,9 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20github%20stats&fontSize=17&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=_&descSize=1" width="100%"/>
+### 📊 &nbsp;GitHub Stats
+
+<img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
 <div align="center">
 
