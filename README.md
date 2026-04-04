@@ -62,55 +62,34 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**AlloyMind** — *AI-Powered Alloy Optimization*
+**AlloyMind** &nbsp;·&nbsp; *AI-Powered Alloy Optimization*
 
-Built a real-time AI system using live spectrometer data to recommend precise alloy additions with **<3% deviation** from target specs.
+> Real-time AI system using live spectrometer data to recommend precise alloy additions with **<3% deviation** from target specs.
 
-**Impact:** `15 min → 10 sec` correction time
+<img src="https://img.shields.io/badge/Impact-15%20min%20→%2010%20sec-22863a?style=flat-square&labelColor=0d1117"/> &nbsp;
+<kbd>CatBoost</kbd> <kbd>PyTorch</kbd> <kbd>OPC-UA</kbd> <kbd>Scikit-Learn</kbd> <kbd>Pandas</kbd>
 
-`CatBoost` `PyTorch` `OPC-UA` `Scikit-Learn` `Pandas`
+<br/>
 
-</td>
-<td width="50%" valign="top">
+**MetisAI** &nbsp;·&nbsp; *AI-Driven Life Cycle Assessment*
 
-**MetisAI** — *AI-Driven Life Cycle Assessment*
+> GNN + LLaMA 8B platform estimating missing LCA parameters with **>90% contextual accuracy**.
 
-GNN + LLaMA 8B platform estimating missing LCA parameters with **>90% contextual accuracy**.
+<img src="https://img.shields.io/badge/Impact-months%20→%2030%20min-22863a?style=flat-square&labelColor=0d1117"/> &nbsp;
+<kbd>GNN</kbd> <kbd>LLaMA 8B</kbd> <kbd>FastAPI</kbd> <kbd>MongoDB</kbd> <kbd>Vector DB</kbd>
 
-**Impact:** `months → 30 min` assessment time
+<br/>
 
-`GNN` `LLaMA 8B` `FastAPI` `MongoDB` `Vector DB`
+**NCO Search** &nbsp;·&nbsp; *Multilingual Semantic Search*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> AI-powered occupation classification across **8+ languages** achieving **>92% accuracy**.
 
-**NCO Search** — *Multilingual Semantic Search*
+<img src="https://img.shields.io/badge/Impact-misclassification%2030%25%20→%208%25-22863a?style=flat-square&labelColor=0d1117"/> &nbsp;
+<kbd>Sentence-BERT</kbd> <kbd>IndicBERT</kbd> <kbd>FAISS</kbd> <kbd>CUDA</kbd>
 
-AI-powered occupation classification system across **8+ languages** achieving **>92% accuracy**.
-
-**Impact:** Misclassification `30% → <8%`
-
-`Sentence-BERT` `IndicBERT` `FAISS` `CUDA`
-
-</td>
-<td width="50%" valign="top">
-
-**What's Next**
-
-Always building. Always shipping.  
-Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
-
-**Status:** `In progress...`
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
