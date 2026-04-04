@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Building+AI+systems+that+ship.;From+months+to+minutes.;Backend+%2B+ML+%2B+Production.)](https://git.io/typing-svg)
 
 <p>
-<a href="https://linkedin.com/in/JisnuSaravanan"><img src="https://www.linkedin.com/in/jisnu-saravanan/" alt="LinkedIn"/></a>&nbsp;
+<a href="https://linkedin.com/in/jisnu-saravanan"><img src="[https://www.linkedin.com/in/jisnu-saravanan/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:imjisnu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://www.youtube.com/@JisnuSaravanan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
