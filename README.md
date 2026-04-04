@@ -21,9 +21,7 @@
 ---
 
 ### 🧑‍💻 &nbsp;About Me
-
 <img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
-
 <div align="center">
 
 ## **`🧑‍💻 JISNU S`** &nbsp;·&nbsp; *CS Undergrad · BIT, Tamil Nadu*
