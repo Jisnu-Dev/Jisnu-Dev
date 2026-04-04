@@ -20,7 +20,7 @@
 
 ---
 
-### `> whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20about%20me&fontSize=17&fontColor=ffffff&fontAlign=20&fontAlignY=65&desc=_&descSize=1" width="100%"/>
 
 <div align="center">
 
@@ -58,7 +58,7 @@ I turn complex ML models into **fast, production-ready backends.**
 
 ---
 
-### `> ls projects/`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20projects&fontSize=17&fontColor=ffffff&fontAlign=16&fontAlignY=65&desc=_&descSize=1" width="100%"/>
 
 <table>
 <tr>
@@ -112,7 +112,7 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 
 ---
 
-### `> cat tech_stack.yml`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20tech%20stack&fontSize=17&fontColor=ffffff&fontAlign=17&fontAlignY=65&desc=_&descSize=1" width="100%"/>
 
 **`languages:`**
 
@@ -149,7 +149,7 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 
 ---
 
-### `> github stats`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=38&text=%20%20◈%20%20github%20stats&fontSize=17&fontColor=ffffff&fontAlign=18&fontAlignY=65&desc=_&descSize=1" width="100%"/>
 
 <div align="center">
 
