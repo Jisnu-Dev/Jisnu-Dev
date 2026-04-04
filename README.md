@@ -24,23 +24,18 @@
 
 <img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
-<div align="center">
+<br/>
+
+> ***I build AI systems that actually work in the real world — not just in notebooks.***
 
 <br/>
 
-## **`🧑‍💻 JISNU S`** &nbsp;·&nbsp; *CS Undergrad · BIT, Tamil Nadu*
-
-<br/>
-
-> ### *I build AI systems that actually work in the real world —*
-> ### *not just in notebooks.*
-
-<br/>
-
-From optimizing alloy compositions in **live furnaces** to semantic search across **8 languages**,<br/>
+From optimizing alloy compositions in **live furnaces** to semantic search across **8 languages**,  
 I turn complex ML models into **fast, production-ready backends.**
 
 <br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/🏆%20ABB%20EngineeredX%20Hackathon-2nd%20Runner%20Up%20%7C%20Top%20Teams%20South%20India-DAA520?style=for-the-badge&labelColor=0d1117" alt="ABB"/><br/>
 <img src="https://img.shields.io/badge/🏆%20Google%20Developer%20Groups%20T4G-Agents%20of%20Change%20Award-DAA520?style=for-the-badge&labelColor=0d1117" alt="GDG"/><br/>
@@ -54,9 +49,9 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <img src="https://img.shields.io/badge/🎓%20Student%20Trainer-Mentored%20100%2B%20Engineers%20in%20ML%20%26%20Generative%20AI-4A90D9?style=for-the-badge&labelColor=0d1117" alt="Mentor"/>
 
-<br/>
-
 </div>
+
+<br/>
 
 ---
 
