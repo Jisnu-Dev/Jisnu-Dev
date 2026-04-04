@@ -1,16 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=200&section=header&text=JISNU%20SARAVANAN&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20%C2%B7%20Backend%20Architecture%20%C2%B7%20ML%20Pipelines&descSize=14&descColor=c9d1d9&descAlignY=58" width="100%" alt="header"/>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=JISNU%20SARAVANAN&fontColor=58a6ff&fontSize=44&fontAlignY=50&animation=fadeIn" alt="header"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=450&lines=%E2%96%B8+Building+AI+systems+that+ship;%E2%96%B8+From+months+to+minutes;%E2%96%B8+Backend+%2B+ML+%2B+Production" alt="Typing SVG"/></a>
 
-<p>
-<code>AI Systems</code>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<code>Backend Architecture</code>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<code>ML Pipelines</code>
-</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=%E2%96%B8+Building+AI+systems+that+ship;%E2%96%B8+From+months+to+minutes;%E2%96%B8+Backend+%2B+ML+%2B+Production" alt="Typing SVG"/></a>
-
-<br/><br/>
+<br/>
 
 <a href="https://linkedin.com/in/JisnuSaravanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:imjisnu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
@@ -91,36 +87,36 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 
 **`languages:`**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 **`ai_ml:`**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **`frameworks:`**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 **`databases:`**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **`dev_tools:`**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -136,6 +132,14 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 ---
 
 ### `> github stats`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jisnu-Dev&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=4" width="100%" alt="Trophies"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -161,6 +165,18 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jisnu-Dev/Jisnu-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jisnu-Dev/Jisnu-Dev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jisnu-Dev/Jisnu-Dev/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
@@ -171,4 +187,4 @@ if (opportunity.isReal()) { jisnu.build(it); }
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
