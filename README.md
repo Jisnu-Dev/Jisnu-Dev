@@ -22,10 +22,22 @@
 
 ### `> whoami`
 
-Computer Science undergrad building **AI systems that compress hours into seconds**.  
-I specialize in **backend architecture**, **machine learning**, and **data pipelines** — shipping production-grade solutions that are fast, reliable, and well-documented.
+**Jisnu S** — CS undergrad at BIT, Tamil Nadu
 
-Currently pursuing B.E. in Computer Science & Design at **Bannari Amman Institute of Technology** (CGPA: 8.27).
+I build AI systems that actually work in the real world — not just in notebooks.
+
+From optimizing alloy compositions in live furnaces to semantic search across 8 languages, I turn complex ML models into fast, production-ready backends.
+
+**Achievements**
+
+| | |
+|---|---|
+| **ABB EngineeredX Hackathon** | Second Runner-Up (Top teams across South India) |
+| **Google Developer Groups T4G** | "Agents of Change" Award |
+| **Sakthi Hackathon** | Top 4 out of 600+ teams |
+
+**Strong in** Java OOP &bull; Python &bull; FastAPI &bull; ML Engineering  
+**Mentored** 100+ engineering students in ML and Generative AI
 
 ---
 
@@ -117,17 +129,6 @@ Exploring real-time AI systems, edge deployment, and scalable ML infrastructure.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
-### `> achievements --highlight`
-
-| | |
-|---|---|
-| **ABB EngineeredX Hackathon** | 2nd Runner-Up — Production-grade AI manufacturing solution, ranked top across South India |
-| **Google Developer Groups (T4G)** | "Agents of Change" Award — Gamified carpool application |
-| **Sakthi Hackathon** | Top 4 out of 600+ teams — Scalable industry-focused solution |
-| **Student Trainer — AI Foundation** | Mentored engineering students in core ML concepts & Generative AI |
 
 ---
 
