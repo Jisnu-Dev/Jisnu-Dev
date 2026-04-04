@@ -135,24 +135,19 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jisnu-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=Jisnu-Dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisnu-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jisnu-Dev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Jisnu-Dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jisnu-Dev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
