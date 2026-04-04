@@ -26,12 +26,12 @@
 
 <br/>
 
-**`🧑‍💻 JISNU S`** &nbsp;·&nbsp; *CS Undergrad · BIT, Tamil Nadu*
+## **`🧑‍💻 JISNU S`** &nbsp;·&nbsp; *CS Undergrad · BIT, Tamil Nadu*
 
 <br/>
 
-> *I build AI systems that **actually work** in the real world —*<br/>
-> *not just in notebooks.*
+> ### *I build AI systems that actually work in the real world —*
+> ### *not just in notebooks.*
 
 <br/>
 
@@ -50,7 +50,7 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <br/>
 
-🎓 Mentored **100+** engineering students in ML and Generative AI
+<img src="https://img.shields.io/badge/🎓%20Student%20Trainer-Mentored%20100%2B%20Engineers%20in%20ML%20%26%20Generative%20AI-4A90D9?style=for-the-badge&labelColor=0d1117" alt="Mentor"/>
 
 <br/>
 
