@@ -12,9 +12,7 @@
 <a href="mailto:imjisnu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://www.youtube.com/@JisnuSaravanan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jisnu-Dev&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
+<br/>
 
 </div>
 
