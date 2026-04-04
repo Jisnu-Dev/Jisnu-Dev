@@ -62,30 +62,33 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <br/>
 
-**AlloyMind** &nbsp;·&nbsp; *AI-Powered Alloy Optimization*
+### ⬡ &nbsp;AlloyMind &nbsp;·&nbsp; *AI-Powered Alloy Optimization*
 
-> Real-time AI system using live spectrometer data to recommend precise alloy additions with **<3% deviation** from target specs.
+> Real-time AI using live spectrometer data to recommend precise alloy additions with **<3% deviation** from target specs.
 
-<img src="https://img.shields.io/badge/Impact-15%20min%20→%2010%20sec-22863a?style=flat-square&labelColor=0d1117"/> &nbsp;
-<kbd>CatBoost</kbd> <kbd>PyTorch</kbd> <kbd>OPC-UA</kbd> <kbd>Scikit-Learn</kbd> <kbd>Pandas</kbd>
+<img src="https://img.shields.io/badge/Impact-15%20min%20→%2010%20sec-22863a?style=for-the-badge&labelColor=0d1117"/> &nbsp;
+
+<kbd>CatBoost</kbd>&nbsp;<kbd>PyTorch</kbd>&nbsp;<kbd>OPC-UA</kbd>&nbsp;<kbd>Scikit-Learn</kbd>&nbsp;<kbd>Pandas</kbd>
 
 <br/>
 
-**MetisAI** &nbsp;·&nbsp; *AI-Driven Life Cycle Assessment*
+### ⬡ &nbsp;MetisAI &nbsp;·&nbsp; *AI-Driven Life Cycle Assessment*
 
 > GNN + LLaMA 8B platform estimating missing LCA parameters with **>90% contextual accuracy**.
 
-<img src="https://img.shields.io/badge/Impact-months%20→%2030%20min-22863a?style=flat-square&labelColor=0d1117"/> &nbsp;
-<kbd>GNN</kbd> <kbd>LLaMA 8B</kbd> <kbd>FastAPI</kbd> <kbd>MongoDB</kbd> <kbd>Vector DB</kbd>
+<img src="https://img.shields.io/badge/Impact-months%20→%2030%20min-22863a?style=for-the-badge&labelColor=0d1117"/> &nbsp;
+
+<kbd>GNN</kbd>&nbsp;<kbd>LLaMA 8B</kbd>&nbsp;<kbd>FastAPI</kbd>&nbsp;<kbd>MongoDB</kbd>&nbsp;<kbd>Vector DB</kbd>
 
 <br/>
 
-**NCO Search** &nbsp;·&nbsp; *Multilingual Semantic Search*
+### ⬡ &nbsp;NCO Search &nbsp;·&nbsp; *Multilingual Semantic Search*
 
 > AI-powered occupation classification across **8+ languages** achieving **>92% accuracy**.
 
-<img src="https://img.shields.io/badge/Impact-misclassification%2030%25%20→%208%25-22863a?style=flat-square&labelColor=0d1117"/> &nbsp;
-<kbd>Sentence-BERT</kbd> <kbd>IndicBERT</kbd> <kbd>FAISS</kbd> <kbd>CUDA</kbd>
+<img src="https://img.shields.io/badge/Impact-misclassification%2030%25%20→%208%25-22863a?style=for-the-badge&labelColor=0d1117"/> &nbsp;
+
+<kbd>Sentence-BERT</kbd>&nbsp;<kbd>IndicBERT</kbd>&nbsp;<kbd>FAISS</kbd>&nbsp;<kbd>CUDA</kbd>
 
 <br/>
 
