@@ -22,26 +22,43 @@
 
 ### `> whoami`
 
-<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-🧑‍💻 **Jisnu S** — CS undergrad at BIT, Tamil Nadu
+```yaml
+name    : Jisnu S
+role    : CS Undergrad @ BIT, Tamil Nadu
+focus   : AI Systems → Production Backends
+status  : Building...
+```
 
-I build AI systems that actually work in the real world — not just in notebooks.
+I build AI systems that **actually work** in the real world — not just in notebooks.
 
 From optimizing alloy compositions in live furnaces to<br/>
 semantic search across 8 languages, I turn complex ML<br/>
-models into fast, production-ready backends.
+models into **fast, production-ready backends.**
 
-<br/>
+</td>
+<td valign="top" width="32%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+
+</td>
+</tr>
+</table>
+
+**`[ Wins ]`**
 
 🏆 **ABB EngineeredX Hackathon** — Second Runner Up *(Top teams across South India)*<br/>
-🏆 **Google Developer Groups T4G** — *"Agents of Change" Award*<br/>
+🏆 **Google Developer Groups T4G** — *"Agents of Change"* Award<br/>
 🏆 **Sakthi Hackathon** — Top 4 out of 600+ teams
 
-<br/>
+**`[ Stack ]`**&nbsp;&nbsp;
+<kbd>Java OOP</kbd>&nbsp;<kbd>Python</kbd>&nbsp;<kbd>FastAPI</kbd>&nbsp;<kbd>ML Engineering</kbd>
 
-💡 Strong in **Java OOP** &bull; **Python** &bull; **FastAPI** &bull; **ML Engineering**<br/>
-🎓 Mentored **100+ engineering students** in ML and Generative AI
+**`[ Teaching ]`**&nbsp;&nbsp;
+🎓 Mentored **100+** engineering students in ML and Generative AI
 
 ---
 
