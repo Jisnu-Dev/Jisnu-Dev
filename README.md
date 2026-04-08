@@ -12,8 +12,6 @@
 <a href="mailto:imjisnu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://www.youtube.com/@JisnuSaravanan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
-<br/>
-
 </div>
 
 ---
@@ -58,7 +56,7 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <img width="120" src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3"/>
 
-### ⬡ &nbsp;AlloyMind &nbsp;·&nbsp; *AI-Powered Alloy Optimization*
+### ⬡ &nbsp;[AlloyMind](https://alloy-mind-ai.vercel.app/) &nbsp;·&nbsp; *AI-Powered Alloy Optimization*
 
 > Real-time AI using live spectrometer data to recommend precise alloy additions with **<3% deviation** from target specs.
 
@@ -68,7 +66,7 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <br/>
 
-### ⬡ &nbsp;MetisAI &nbsp;·&nbsp; *AI-Driven Life Cycle Assessment*
+### ⬡ &nbsp;[MetisAI](https://metisai-delta.vercel.app/) &nbsp;·&nbsp; *AI-Driven Life Cycle Assessment*
 
 > GNN + LLaMA 8B platform estimating missing LCA parameters with **>90% contextual accuracy**.
 
@@ -78,7 +76,7 @@ I turn complex ML models into **fast, production-ready backends.**
 
 <br/>
 
-### ⬡ &nbsp;NCO Search &nbsp;·&nbsp; *Multilingual Semantic Search*
+### ⬡ &nbsp;[NCO Search](https://nco-sematic-search.vercel.app/) &nbsp;·&nbsp; *Multilingual Semantic Search*
 
 > AI-powered occupation classification across **8+ languages** achieving **>92% accuracy**.
 
